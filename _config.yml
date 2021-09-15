@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jeong jeheon"
+name                     : ""
 description              : "An amazing website."
 url                      : "https://jjh4435.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeong jeheon"
+  name             : "정제헌"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello world"
-  location         : "Somewhere"
-  email            : ghj753951@naver.com
+  bio              : "안녕하세요, 신입 개발자 정제헌입니다."
+  location         : "인천광역시 미추홀구 낙섬중로20 한양아파트1차 6동 1005호"
+  email            : "ghj753951@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
