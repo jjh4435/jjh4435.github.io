@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "정제헌"
+  name             : "Jeong jeheon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요, 신입 개발자 정제헌입니다."
+  bio              : "Hello"
   location         : "Somewhere"
   email            : ghj753951@naver.com
   links:
