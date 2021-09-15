@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jeong jeheon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello"
+  bio              : "Hello world"
   location         : "Somewhere"
   email            : ghj753951@naver.com
   links:
