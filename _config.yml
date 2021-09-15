@@ -104,8 +104,7 @@ author:
   name             : "정제헌"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요, 신입 개발자 정제헌입니다."
-  location         : "인천광역시 미추홀구 낙섬중로20  
-  한양아파트1차 6동 1005호"
+  location         : "인천광역시 미추홀구 낙섬중로20"  "한양아파트1차 6동 1005호"
   email            : "ghj753951@naver.com"
   links:
     - label: "Email"
