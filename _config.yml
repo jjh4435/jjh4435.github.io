@@ -8,12 +8,11 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 
 # Site Settings
 locale                   : "en-US"
@@ -102,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "정제헌"
+  name             : "Jeong jeheon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요, 신입 개발자 정제헌입니다."
-  location         : "인천광역시 미추홀구 낙섬중로20<br/> 한양아파트1차 6동 1005호"
+  bio              : "I am an **amazing** person."
+  location         : "South Korea"
   email            : "ghj753951@naver.com"
   github           : "jjh4435"
   links:
