@@ -12,26 +12,44 @@ title:  "Quiz Project"
 
 ## 프로젝트 상세내용
 ### 1. 메인 페이지
-<img class="home"
-src="/assets/images/home.png">
+<img src="/assets/images/home.png">
+
 - 프로그램 시작 시 보이는 화면
 - 게임 설명, 게임 시작, 게임 종료 버튼을 통해 각각 설명 페이지, 닉네임 설정 페이지로 이동하거나 게임을 종료한다.
 
-<img class="home"
-src="/assets/images/rule.png">
+<img src="/assets/images/rule.png">
+
 - 게임 설명 페이지로 게임의 규칙이 적혀져 있습니다.
 - 메인으로, 시작 버튼을 통해 메인화면으로 돌아가거나 닉네임 설정 페이지로 이동합니다.
 
-<img class="home"
-src="/assets/images/name.png">
+<img src="/assets/images/name.png">
 
-<img class="home"
-src="/assets/images/game.png">
+- 게임에서 사용할 닉네임을 결정합니다.
+- 메인으로, 시작 버튼을 통해 메인화면으로 돌아가거나 게임 페이지로 이동합니다.
 
-<img class="home"
-src="/assets/images/clear.png">
+<img src="/assets/images/game.png">
 
-<img class="home"
-src="/assets/images/finsh.png">
+- 화면의 윗부분에 몇 번째 문제인을 표기하고 문제에 도전할 수 있는 횟수를 별로써 표시합니다.
+- 힌트 버튼을 클릭하여 문제에 대한 힌트를 있습니다.
+- 정답을 입력 후 입력 버튼을 클릭하면 정답이라면 클리어 화면으로 오답이라면 별 하나를 없앤 후에 다시 게임 화면이 나옵니다.
 
-## 3. 프로젝트 사용 지침서
+<img src="/assets/images/clear.png">
+
+- 문제의 정답을 맞힐 시 나오는 클리어 화면입니다.
+- 화면 위쪽에 몇 번째 문제인지가 나오고 몇 번 만에 클리어하였는지를 별의 개수로 표시합니다.
+
+<img src="/assets/images/false.png">
+
+- 문제를 주어진 기회 안에 맞히지 못하였을 때 나오는 게임 오버 화면입니다.
+- 화면 위쪽에 몇 번째 문제인지가 나오고 틀린 문제의 답을 표시합니다.
+
+<img src="/assets/images/finsh.png">
+
+- 게임의 문제를 모두 맞힐 시 나오는 마지막 화면입니다.
+
+## 프로젝트 사용 지침서
+1. 프로젝트를 마우스 오른쪽 클릭
+2. Run as
+3. Java Application 클릭
+4. 메인화면에서 게임의 설명을 보기 위해 게임 설명 버튼을 클릭하거나 바로 시작을 위해 게임 시작 버튼을 클릭
+5. 게임의 규칙을 숙지 후 닉네임을 정한 후 게임을 시작
