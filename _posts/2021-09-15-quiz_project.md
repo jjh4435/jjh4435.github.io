@@ -18,20 +18,27 @@ title:  "Quiz Project"
 
 ## 프로젝트 상세내용
 ### 1. 메인 페이지
+
 <img src="/assets/images/quiz_project/home.png">
 
 - 프로그램 시작 시 보이는 화면
 - 게임 설명, 게임 시작, 게임 종료 버튼을 통해 각각 설명 페이지, 닉네임 설정 페이지로 이동하거나 게임을 종료한다.
+
+### 2. 게임설명 페이지
 
 <img src="/assets/images/quiz_project/rule.png">
 
 - 게임 설명 페이지로 게임의 규칙이 적혀져 있습니다.
 - 메인으로, 시작 버튼을 통해 메인화면으로 돌아가거나 닉네임 설정 페이지로 이동합니다.
 
+### 3. 닉네임 페이지
+
 <img src="/assets/images/quiz_project/name.png">
 
 - 게임에서 사용할 닉네임을 결정합니다.
 - 메인으로, 시작 버튼을 통해 메인화면으로 돌아가거나 게임 페이지로 이동합니다.
+
+### 4. 게임 페이지
 
 <img src="/assets/images/quiz_project/game.png">
 
@@ -39,15 +46,21 @@ title:  "Quiz Project"
 - 힌트 버튼을 클릭하여 문제에 대한 힌트를 있습니다.
 - 정답을 입력 후 입력 버튼을 클릭하면 정답이라면 클리어 화면으로 오답이라면 별 하나를 없앤 후에 다시 게임 화면이 나옵니다.
 
+### 5. 클리어 페이지
+
 <img src="/assets/images/quiz_project/clear.png">
 
 - 문제의 정답을 맞힐 시 나오는 클리어 화면입니다.
 - 화면 위쪽에 몇 번째 문제인지가 나오고 몇 번 만에 클리어하였는지를 별의 개수로 표시합니다.
 
+### 6. 게임오버 페이지
+
 <img src="/assets/images/quiz_project/false.png">
 
 - 문제를 주어진 기회 안에 맞히지 못하였을 때 나오는 게임 오버 화면입니다.
 - 화면 위쪽에 몇 번째 문제인지가 나오고 틀린 문제의 답을 표시합니다.
+
+### 7. 게임종료 페이지
 
 <img src="/assets/images/quiz_project/finsh.png">
 
